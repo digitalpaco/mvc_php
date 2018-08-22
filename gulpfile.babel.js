@@ -28,7 +28,7 @@ const reload = browserSync.reload,
     './public/css/style.css',
     './**/*.php'
   ], proxyOptions = {
-    proxy: 'localhost/proyecto-php/',
+    proxy: 'localhost/mvc_php/',
     notify: false
   }, imageminOptions = {
     progressive: true,
