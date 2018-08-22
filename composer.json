@@ -1,0 +1,14 @@
+{
+    "name": "pacoc/mvc_php",
+    "description": "creaci\u0000n frameword mvc en php7 POO pdo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "digitalpaco",
+            "email": "digitalpaco1975@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
